@@ -1,3 +1,6 @@
+Clone the repository:
+https://github.com/AnoshR09/ServerPerformanceandStats.git
+
 The Plan: Automating Server Monitoring
 Before jumping into the code, I outlined what exactly I wanted my script to do:
 
